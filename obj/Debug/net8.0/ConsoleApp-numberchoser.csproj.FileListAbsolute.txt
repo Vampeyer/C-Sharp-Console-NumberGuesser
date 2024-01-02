@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\ConsoleApp-numberchoser\bin\Debug\net8.0\ConsoleApp-numberchoser.exe
+C:\Users\Administrator\source\repos\ConsoleApp-numberchoser\bin\Debug\net8.0\ConsoleApp-numberchoser.deps.json
+C:\Users\Administrator\source\repos\ConsoleApp-numberchoser\bin\Debug\net8.0\ConsoleApp-numberchoser.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConsoleApp-numberchoser\bin\Debug\net8.0\ConsoleApp-numberchoser.dll
+C:\Users\Administrator\source\repos\ConsoleApp-numberchoser\bin\Debug\net8.0\ConsoleApp-numberchoser.pdb
+C:\Users\Administrator\source\repos\ConsoleApp-numberchoser\obj\Debug\net8.0\ConsoleApp-numberchoser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\ConsoleApp-numberchoser\obj\Debug\net8.0\ConsoleApp-numberchoser.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp-numberchoser\obj\Debug\net8.0\ConsoleApp-numberchoser.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConsoleApp-numberchoser\obj\Debug\net8.0\ConsoleApp-numberchoser.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConsoleApp-numberchoser\obj\Debug\net8.0\ConsoleApp-numberchoser.dll
+C:\Users\Administrator\source\repos\ConsoleApp-numberchoser\obj\Debug\net8.0\refint\ConsoleApp-numberchoser.dll
+C:\Users\Administrator\source\repos\ConsoleApp-numberchoser\obj\Debug\net8.0\ConsoleApp-numberchoser.pdb
+C:\Users\Administrator\source\repos\ConsoleApp-numberchoser\obj\Debug\net8.0\ConsoleApp-numberchoser.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\ConsoleApp-numberchoser\obj\Debug\net8.0\ref\ConsoleApp-numberchoser.dll
+C:\Users\Administrator\source\repos\ConsoleApp-numberchoser\bin\Debug\net8.0\ConsoleApp-numberchoser.dll.config
